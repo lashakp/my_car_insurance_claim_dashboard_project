@@ -1,0 +1,5 @@
+Metric,Before Cleaning,After Cleaning
+Rows,10000,10000
+Columns,19,19
+Missing Values,1939,0
+Duplicates,0,0

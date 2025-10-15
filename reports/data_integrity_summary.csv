@@ -1,0 +1,2 @@
+Renamed Columns,Vehicle Ownership Mapping,Missing Values Filled,Validation Fixes
+{'outcome': 'claim_status'},"{0:'leased', 1:'owned'}","{'credit_score': np.int64(982), 'annual_mileage': np.int64(957)}","['Clipped 10000 invalid credit_score values to range 300–850.', 'Mapped vehicle_ownership values: 0→leased, 1→owned.', ""Set 412 invalid entries in 'duis' to NaN.""]"

@@ -1,0 +1,9 @@
+2025-10-15 14:25:23,242 - INFO - \U0001f539 Data Cleaning Process Started
+2025-10-15 14:25:23,279 - INFO - Data loaded successfully with 10000 rows and 19 columns.
+2025-10-15 14:25:23,299 - INFO - Renamed column 'outcome' \u2192 'claim_status'
+2025-10-15 14:25:23,334 - INFO - Text columns standardized successfully.
+2025-10-15 14:25:23,343 - INFO - Validation checks completed. Issues found: None
+2025-10-15 14:25:23,471 - INFO - Cleaned data saved to C:\Users\user\Desktop\my_dash_board_project\data\cleaned_data.csv
+2025-10-15 14:25:23,471 - INFO - Cleaning report saved to C:\Users\user\Desktop\my_dash_board_project\reports\data_cleaning_report.csv
+2025-10-15 14:25:24,761 - INFO - Visual diagnostics saved successfully.
+2025-10-15 14:25:24,761 - INFO - \u2705 Data Cleaning Completed Successfully.

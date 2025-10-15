@@ -1,0 +1,71 @@
+2025-10-15 10:51:44,248 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 10:51:44,281 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 10:51:45,999 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 10:51:47,272 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 10:51:47,383 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-15 10:51:47,395 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-10-15 10:51:47,485 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 10:51:48,001 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 10:51:50,503 - INFO - Saved interactive chart: claims_by_driving_experience.html
+2025-10-15 10:51:50,595 - INFO - Saved interactive chart: claims_by_vehicle_year.html
+2025-10-15 10:51:50,797 - INFO - Saved interactive chart: speeding_vs_outcome.html
+2025-10-15 10:51:50,797 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
+2025-10-15 14:51:09,726 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 14:51:09,785 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 14:51:12,841 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 14:51:15,260 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 14:51:15,664 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 14:51:16,443 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 14:51:16,453 - ERROR - Error generating interactive plots: agg function failed [how->mean,dtype->object]
+2025-10-15 14:51:16,454 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
+2025-10-15 15:04:00,704 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 15:04:00,790 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 15:04:03,341 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 15:04:05,647 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 15:04:06,133 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 15:04:06,982 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 15:04:07,158 - ERROR - Error generating static plots: agg function failed [how->mean,dtype->object]
+2025-10-15 15:04:07,165 - ERROR - Error generating interactive plots: agg function failed [how->mean,dtype->object]
+2025-10-15 15:04:07,166 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
+2025-10-15 15:08:51,457 - ERROR - Failed to load dataset: [Errno 2] No such file or directory: 'outputs/data/cleaned_data.csv'
+2025-10-15 15:09:06,709 - ERROR - Failed to load dataset: [Errno 2] No such file or directory: 'outputs/data/cleaned_data.csv'
+2025-10-15 15:09:41,742 - INFO - Dataset loaded successfully: (10000, 19)
+2025-10-15 15:09:42,257 - ERROR - Error generating static plots: Could not interpret value `age_group` for `x`. An entry with this name does not appear in `data`.
+2025-10-15 15:09:44,707 - INFO - Interactive visualizations generated successfully.
+2025-10-15 15:09:44,711 - INFO - Visualization script executed successfully.
+2025-10-15 15:17:47,222 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 15:17:47,279 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 15:17:49,494 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 15:17:51,671 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 15:17:52,050 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 15:17:53,017 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 15:17:53,200 - ERROR - Error generating static plots: agg function failed [how->mean,dtype->object]
+2025-10-15 15:17:54,131 - INFO - Saved interactive chart: claims_by_driving_experience.html
+2025-10-15 15:17:54,254 - INFO - Saved interactive chart: claims_by_vehicle_year.html
+2025-10-15 15:17:54,464 - INFO - Saved interactive chart: speeding_vs_claim_status.html
+2025-10-15 15:17:54,589 - INFO - Saved interactive chart: claims_by_vehicle_ownership.html
+2025-10-15 15:17:54,590 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
+2025-10-15 15:21:12,517 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 15:21:12,577 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 15:21:13,954 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 15:21:14,694 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 15:21:15,133 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 15:21:16,069 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 15:21:16,586 - INFO - Saved static chart: claims_by_age_gender_heatmap.png
+2025-10-15 15:21:18,373 - INFO - Saved interactive chart: claims_by_driving_experience.html
+2025-10-15 15:21:18,563 - INFO - Saved interactive chart: claims_by_vehicle_year.html
+2025-10-15 15:21:18,729 - INFO - Saved interactive chart: claims_by_vehicle_ownership.html
+2025-10-15 15:21:19,006 - INFO - Saved interactive chart: speeding_vs_claim_status.html
+2025-10-15 15:21:19,007 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
+2025-10-15 15:24:22,593 - INFO - ===== STEP 3: VISUALIZATION STARTED =====
+2025-10-15 15:24:22,657 - INFO - Dataset loaded successfully with shape: (10000, 19)
+2025-10-15 15:24:23,844 - INFO - Saved static chart: claims_by_age.png
+2025-10-15 15:24:24,617 - INFO - Saved static chart: claims_by_gender.png
+2025-10-15 15:24:25,075 - INFO - Saved static chart: vehicle_ownership.png
+2025-10-15 15:24:25,973 - INFO - Saved static chart: correlation_heatmap.png
+2025-10-15 15:24:26,500 - INFO - Saved static chart: claims_by_age_gender_heatmap.png
+2025-10-15 15:24:27,562 - INFO - Saved interactive chart: claims_by_driving_experience.html
+2025-10-15 15:24:27,704 - INFO - Saved interactive chart: claims_by_vehicle_year.html
+2025-10-15 15:24:27,846 - INFO - Saved interactive chart: claims_by_vehicle_ownership.html
+2025-10-15 15:24:28,078 - INFO - Saved interactive chart: speeding_vs_claim_status.html
+2025-10-15 15:24:28,079 - INFO - ===== STEP 3: VISUALIZATION COMPLETED SUCCESSFULLY =====
