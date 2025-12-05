@@ -4,7 +4,7 @@ data_cleaning.py
 Professional data cleaning and validation pipeline for the Car Insurance Claim dataset.
 Focus: Dashboard readiness (preserve data integrity for visualization).
 
-Author: Your Name
+Author: Paul Akporarhe
 """
 
 import os
